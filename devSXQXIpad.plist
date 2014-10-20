@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://59.49.96.251:10132/sxqxSoftware/ipad/SXQXiPad.ipa</string>
+					<string>http://192.168.1.209:8080/sxqx/ipad/SXQXiPad.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
